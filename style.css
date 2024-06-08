@@ -1,0 +1,21 @@
+h1, h2, h3, h4, h5, h6, a {
+  font-family: "League Spartan", sans-serif;
+}
+
+.navbar img {
+    width: 50%;
+}
+.nav {
+    padding: 0;
+}
+.navbar .container-fluid {
+    padding: 0;
+    background: #ffffff;
+}
+.navbar .container-fluid .logo {
+    display: contents;
+}
+.navbar-toggler {
+    border: 0;
+    color: white;
+}
