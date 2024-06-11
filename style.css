@@ -126,7 +126,7 @@ h1, h2, h3, h4, h5, h6, a, p {
 
 
 .section-three {
-    background-image: linear-gradient(0deg, rgb(0, 0, 0), rgb(3, 3, 3)), url(../Documents/wytebirds-it-solutions/assets/bg-home.png);    
+    background-image: linear-gradient(0deg, rgb(0, 0, 0), rgb(3, 3, 3)), url(../Documents/wytebirds-it-solutions/assets/bg-home.png); 
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
